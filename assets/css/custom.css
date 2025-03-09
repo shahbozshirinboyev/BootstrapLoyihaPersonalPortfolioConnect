@@ -58,3 +58,9 @@
   width: 20px;
 }
 /* /Features */
+
+/* Results */
+.results__cards img{
+  width: 80px;
+}
+/* /Results */
