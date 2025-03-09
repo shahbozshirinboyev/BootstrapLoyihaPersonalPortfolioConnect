@@ -51,23 +51,32 @@
 /* /About */
 
 /* Features */
-.features__container{
+.features__container {
   background-color: #f0f5f9;
 }
-.features__container .list-unstyled img{
+.features__container .list-unstyled img {
   width: 20px;
 }
 /* /Features */
 
 /* Results */
-.results__cards img{
+.results__cards img {
   width: 80px;
 }
 /* /Results */
 
 /* Reviews */
-.reviews__container{
+.reviews__container {
   padding: 100px 50px;
   background-color: #f0f5f9;
 }
 /* Reviews */
+
+/* Pricing */
+.pricing__card {
+  background-color: #f0f5f9;
+}
+.pricing__card .card-body img{
+  width: 120px;
+}
+/* /Pricing */
