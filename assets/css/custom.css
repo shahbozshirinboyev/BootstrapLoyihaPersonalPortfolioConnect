@@ -64,3 +64,10 @@
   width: 80px;
 }
 /* /Results */
+
+/* Reviews */
+.reviews__container{
+  padding: 100px 50px;
+  background-color: #f0f5f9;
+}
+/* Reviews */
