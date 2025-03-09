@@ -80,3 +80,10 @@
   width: 120px;
 }
 /* /Pricing */
+
+/* FAQ */
+.faq__container{
+  padding: 100px 50px;
+  background-color: #f0f5f9;
+}
+/* /FAQ */
