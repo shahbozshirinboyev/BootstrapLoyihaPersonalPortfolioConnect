@@ -48,5 +48,13 @@
 .about__card-3 > img {
   width: 80px;
 }
-
 /* /About */
+
+/* Features */
+.features__container{
+  background-color: #f0f5f9;
+}
+.features__container .list-unstyled img{
+  width: 20px;
+}
+/* /Features */
